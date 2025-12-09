@@ -207,3 +207,14 @@ body {
   height: 36px;
   background-color: #AAA;
 }
+.thumbnail-image {
+  transition: transform .2s ease;
+}
+
+
+#scrollTopBtn {
+  position: fixed;
+  bottom: 20px; right: 20px;
+  padding: 10px;
+  display: none;
+}
